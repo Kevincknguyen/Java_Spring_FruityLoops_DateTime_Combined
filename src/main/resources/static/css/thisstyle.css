@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.time{
+	color:green
+}
+
+.date{
+	color:blue;
+}
+.main{
+	color:black;
+	height:100vh;
+	margin:0% 30%;
+	background-color:aqua;
+	border:solid black;
+}
+
+h1{
+	color:pink;
+}
+.table{
+	border:50px solid pink;
+	text-align:center;
+}
+
+
+th, td {
+  text-align: left;
+  padding: 30px;
+}
